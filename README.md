@@ -41,8 +41,8 @@ An automation tool for the Movement Network testnet. It streamlines interactions
    ```
 
 3. Create configuration files:
-   - Create `pk.txt` with each private key on a new line
-   - Create `proxy.txt` with each proxy on a new line (optional)
+   - Create `pk.txt` with each private key on a new line : Aptos Private Key
+   - Create `proxy.txt` with each proxy on a new line (optional) Format : http://user:pw@ip:port
    - Customize `config.json` according to your needs
 
 ## Configuration
